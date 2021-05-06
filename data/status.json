@@ -1,0 +1,35 @@
+[
+  {
+    "id": "Active"
+  },
+  {
+    "id": "Bench Warrant"
+  },
+  {
+    "id": "Closed"
+  },
+  {
+    "id": "Declined"
+  },
+  {
+    "id": "Dismissed"
+  },  
+  {
+    "id": "Diversion"
+  },
+  {
+    "id": "Expunged"
+  },
+  {
+    "id": "Extradition"
+  },
+  {
+    "id": "Intake"
+  },
+  {
+    "id": "Probation"
+  },
+  {
+    "id": "Warrant"
+  }
+]

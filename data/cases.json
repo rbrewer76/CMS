@@ -1,0 +1,204 @@
+[
+  {
+    "id": "21-000212",
+    "type": "Traffic",
+    "status": "Active",
+    "statusDt": "2021-04-27",
+    "defName": "Ricky Nopptu",
+    "nameId": "4564845",
+    "address": 
+    {
+      "street": "899 Saint John St",
+      "city": "Shreveport",
+      "state": "La",
+      "zip": "70121"
+    },
+    "phone": "555-801-7788",
+    "prosName": "John Jappers",
+    "court": "1st Judicial District Court",
+    "charges": 
+    [
+      {
+        "code": "R.S.32:52", 
+        "desc": "Driver must be licensed",
+        "date": "2021-03-24", 
+        "plea": "Guilty", 
+        "dispo": "Guilty",
+        "note": ""
+      },
+      {
+        "code": "R.S.32:58", 
+        "desc": "Careless operation", 
+        "date": "2021-03-24", 
+        "plea": "", 
+        "dispo": "Dismissed",
+        "note": "Driving exceedingly fast in wet conditions and driver very rude"
+      }
+    ],
+    "financials": 
+    [
+      {"id": "F", "type": "Fine", "amount": "200.00", "paid": "200.00", "balance": "0", "due": "2021-06-20"},
+      {"id": "CC", "type": "Court Cost", "amount": "320.00", "paid": "100.00", "balance": "220.00", "due": "2021-06-20"}
+    ]
+  },
+  {
+    "id": "21-000363",
+    "type": "Misdemeanor",
+    "status": "Active",
+    "statusDt": "2021-04-27",
+    "defName": "Sally McDoop",
+    "nameId": "8245612",
+    "address": 
+    {
+      "street": "899 Saint John St",
+      "city": "Shreveport",
+      "state": "La",
+      "zip": "70121"
+    },
+    "phone": "555-801-7788",
+    "prosName": "John Jappers",
+    "court": "1st Judicial District Court",
+    "charges": 
+    [
+      {
+        "code": "R.S.32:77.1", 
+        "desc": "School zones; no passing zones",
+        "date": "2021-03-24", 
+        "plea": "Guilty", 
+        "dispo": "Guilty",
+        "note": ""
+      }
+    ],
+    "financials": 
+    [
+      {"id": "F", "type": "Fine", "amount": "450.00", "paid": "0", "balance": "450.00", "due": "2021-06-20"},
+      {"id": "CC", "type": "Court Cost", "amount": "320.00", "paid": "0", "balance": "320.00", "due": "2021-06-20"}
+    ]
+  },
+  {
+    "id": "21-000075",
+    "type": "Misdemeanor",
+    "status": "Active",
+    "statusDt": "2021-04-27",
+    "defName": "John Afman",
+    "nameId": "1140065",
+    "address": 
+    {
+      "street": "899 Saint John St",
+      "city": "Shreveport",
+      "state": "La",
+      "zip": "70121"
+    },
+    "phone": "555-801-7788",
+    "prosName": "John Jappers",
+    "court": "1st Judicial District Court",
+    "charges": 
+    [
+      {
+        "code": "R.S.32:52", 
+        "desc": "Driver must be licensed",
+        "date": "2021-03-24", 
+        "plea": "Guilty", 
+        "dispo": "Guilty",
+        "note": ""
+      },
+      {
+        "code": "R.S.32:58", 
+        "desc": "Careless operation", 
+        "date": "2021-03-24", 
+        "plea": "", 
+        "dispo": "Dismissed",
+        "note": "Driving exceedingly fast in wet conditions and driver very rude"
+      }
+    ],
+    "financials": 
+    [
+      {"id": "F", "type": "Fine", "amount": "200.00", "paid": "200.00", "balance": "0", "due": "2021-06-20"},
+      {"id": "CC", "type": "Court Cost", "amount": "320.00", "paid": "100.00", "balance": "220.00", "due": "2021-06-20"}
+    ]
+  },
+  {
+    "id": "21-001001",
+    "type": "Misdemeanor",
+    "status": "Active",
+    "statusDt": "2021-04-27",
+    "defName": "Christopher Konter",
+    "nameId": "4545921",
+    "address": 
+    {
+      "street": "899 Saint John St",
+      "city": "Shreveport",
+      "state": "La",
+      "zip": "70121"
+    },
+    "phone": "555-801-7788",
+    "prosName": "John Jappers",
+    "court": "1st Judicial District Court",
+    "charges": 
+    [
+      {
+        "code": "R.S.32:52", 
+        "desc": "Driver must be licensed",
+        "date": "2021-03-24", 
+        "plea": "Guilty", 
+        "dispo": "Guilty",
+        "note": ""
+      },
+      {
+        "code": "R.S.32:58", 
+        "desc": "Careless operation", 
+        "date": "2021-03-24", 
+        "plea": "", 
+        "dispo": "Dismissed",
+        "note": "Driving exceedingly fast in wet conditions and driver very rude"
+      }
+    ],
+    "financials": 
+    [
+      {"id": "F", "type": "Fine", "amount": "200.00", "paid": "200.00", "balance": "0", "due": "2021-06-20"},
+      {"id": "CC", "type": "Court Cost", "amount": "320.00", "paid": "100.00", "balance": "220.00", "due": "2021-06-20"}
+    ]
+  },
+  {
+    "id": "21-000155",
+    "type": "Misdemeanor",
+    "status": "Active",
+    "statusDt": "2021-04-27",
+    "defName": "Brian Yorno",
+    "nameId": "2056874",
+    "address": 
+    {
+      "street": "899 Saint John St",
+      "city": "Shreveport",
+      "state": "La",
+      "zip": "70121"
+    },
+    "phone": "555-801-7788",
+    "prosName": "John Jappers",
+    "court": "1st Judicial District Court",
+    "charges": 
+    [
+      {
+        "code": "R.S.32:52", 
+        "desc": "Driver must be licensed",
+        "date": "2021-03-24", 
+        "plea": "Guilty", 
+        "dispo": "Guilty",
+        "note": ""
+      },
+      {
+        "code": "R.S.32:58", 
+        "desc": "Careless operation", 
+        "date": "2021-03-24", 
+        "plea": "", 
+        "dispo": "Dismissed",
+        "note": "Driving exceedingly fast in wet conditions and driver very rude"
+      }
+    ],
+    "financials": 
+    [
+      {"id": "F", "type": "Fine", "amount": "200.00", "paid": "200.00", "balance": "0", "due": "2021-06-20"},
+      {"id": "CC", "type": "Court Cost", "amount": "320.00", "paid": "100.00", "balance": "220.00", "due": "2021-06-20"}
+    ]
+  }
+]

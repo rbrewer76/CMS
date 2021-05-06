@@ -1,0 +1,30 @@
+[
+  {
+    "id": "R.S.32:52", 
+    "desc": "Driver must be licensed"
+  },
+  {
+    "id": "R.S.32:58", 
+    "desc": "Careless operation"
+  },
+  {
+    "id": "R.S.32:65", 
+    "desc": "Drag racing and racing on public roads and certain property"
+  },
+  {
+    "id": "R.S.32:73", 
+    "desc": "Passing a vehicle on the left"    
+  },
+  {
+    "id": "R.S.32:77", 
+    "desc": "No passing zones"   
+  },
+  {
+    "id": "R.S.32:77.1", 
+    "desc": "School zones; no passing zones"
+  },
+  {
+    "id": "R.S.32:196", 
+    "desc": "Clinging to vehicles"
+  }
+]

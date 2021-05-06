@@ -1,0 +1,23 @@
+[
+  {
+    "id": "Declined"
+  },
+  {
+    "id": "Dismissed"
+  },
+  {
+    "id": "Diversion"
+  },
+  {
+    "id": "Fine"
+  },
+  {
+    "id": "Guilty"
+  },
+  {
+    "id": "Judgment"
+  },
+  {
+    "id": "Not Guilty"
+  }
+]
